@@ -1,0 +1,4 @@
+api_url: https://api.myserver.com
+api_key: YOUR_API_KEY
+machine_id: my-machine-01
+interval_secs: 900
